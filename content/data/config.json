@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Ampersand Theme",
+    "title": "Narendra Nag's Personal Site",
     "path_prefix": "/",
     "layout_style": "grid",
     "palette": "green",
@@ -53,13 +53,6 @@
                 "url": "https://www.linkedin.com/in/narendranag",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "Co.",
-                "url": "https://lamin.ar",
-                "style": "icon",
-                "icon_class": "dev",
                 "new_window": true
             }
         ],
