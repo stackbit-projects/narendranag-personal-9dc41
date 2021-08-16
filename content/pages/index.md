@@ -1,11 +1,16 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  Hello, welcome to my random musings. My name is Naren, I am the CEO and
+  co-founder of [Lamin.ar](https://lamin.ar) — the best enterprise
+  video-streaming platform in the world built for media companies who want to go
+  direct to consumer, and don't want to re-invent the wheel and try and become
+  an engineering company. 
+
+
+  I have spent my life at the intersection of art, science and code and am
+  passionate about solving problems and building at world-scale.
 intro_actions:
   - label: Learn More
     url: /about
