@@ -1,5 +1,7 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: >-
+  Learnings from launching KBITS Live — the new streaming home for the world’s
+  best Cisco networking trainer
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
   walking through dense forest, undergrowth, or bushes, where forward progress
