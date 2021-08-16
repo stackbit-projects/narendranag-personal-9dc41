@@ -1,7 +1,7 @@
 {
     "title": "Narendra Nag's Personal Site",
     "path_prefix": "/",
-    "layout_style": "grid",
+    "layout_style": "list",
     "palette": "green",
     "header": {
         "title": "narendranag",
