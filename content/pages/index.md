@@ -6,11 +6,11 @@ intro_content: >
   co-founder of [Lamin.ar](https://lamin.ar) — the best enterprise
   video-streaming platform in the world built for media companies who want to go
   direct to consumer, and don't want to re-invent the wheel and try and become
-  an engineering company. 
+  an engineering company.
 
 
   I have spent my life at the intersection of art, science and code and am
-  passionate about solving problems and building at world-scale.
+  passionate about solving problems at world-scale.
 intro_actions:
   - label: Learn More
     url: /about
@@ -21,7 +21,7 @@ intro_actions:
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
+  title: 'Narendra Nag — Personal Blog '
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
