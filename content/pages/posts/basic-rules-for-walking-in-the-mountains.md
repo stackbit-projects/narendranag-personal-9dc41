@@ -6,7 +6,7 @@ excerpt: >-
   We learnt that world-beating content creators like KB are handing over their
   audiences, their content and between fifty and seventy percent of their
   revenue to folks who provide tech and reach. Here's how we solved for it.
-date: '2019-07-09'
+date: '2019-07-06'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
 content_img_path: images/1.jpg
