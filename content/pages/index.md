@@ -22,7 +22,9 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: 'Narendra Nag — Personal Blog '
-  description: The preview of the Ampersand theme
+  description: >-
+    My personal musings about video streaming, the media industry, and the
+    direct to consumer revolution.
   extra:
     - name: 'og:type'
       value: website
