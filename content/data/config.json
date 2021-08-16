@@ -50,13 +50,13 @@
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/narendranga",
+                "url": "https://www.linkedin.com/in/narendranag",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "Co.",
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "dev",
