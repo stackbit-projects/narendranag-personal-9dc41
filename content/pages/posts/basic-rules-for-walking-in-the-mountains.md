@@ -3,9 +3,9 @@ title: >-
   Learnings from launching KBITS Live — the new streaming home for the world’s
   best Cisco networking trainer
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  We learnt that world-beating content creators like KB are handing over their
+  audiences, their content and between fifty and seventy percent of their
+  revenue to folks who provide tech and reach.
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
